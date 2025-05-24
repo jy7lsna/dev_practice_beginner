@@ -1,5 +1,8 @@
 # Simple Calculator using HTML and CSS
 
+checkout here 
+https://jy7lsna.github.io/dev_practice_beginner/
+
 This is a basic calculator web app built using only **HTML** and **CSS** — no JavaScript involved! It features a clean UI for layout and design practice.
 
 ## 🖥️ Features
